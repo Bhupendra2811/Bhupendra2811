@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I boosted a website's speed by 50% with just 10 optimizations!
 
 ### My Projects:
-- [Trello Board]([https://github.com/yourusername/rouage](https://trello-board-tau.vercel.app/)): Developed in Vue.js.
+- [Trello Board](https://trello-board-tau.vercel.app/): Developed in Vue.js.
 - [Syncronex](https://syncronex-q96ou4xsl-bhupendra2811.vercel.app/signin): Developed a microfrontend module in Next.js.
 - [Laziz pizza](lazizpizzav1.herokuapp.com/): Developed using MERN stack.
 
