@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Bhupendra Singh Chundawat
-**Front-end and Full-stack Developer | React.js | Next.js | Vue.js | AWS Chime SDK**
+**Front-end and Full-stack Developer | React.js | Next.js | Vue.js | NodeJs | SQL | AWS Chime SDK**
 
 - 🔭 I’m currently working on building scalable web applications using modern technologies.
 - 🌱 I’m learning advanced concepts in GraphQL and cloud computing.
