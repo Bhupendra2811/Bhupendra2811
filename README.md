@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bhupendra Singh Chundawat</h1>
 
 <p align="center">
-  <b>Full-Stack Engineer</b> — React • Next.js • Java / Spring Boot • Node.js • PostgreSQL
+  <b>Full-Stack Engineer</b> — React • Next.js • <b>Java / Spring Boot</b> • <b>Azure CosmosDB</b> • Node.js • PostgreSQL
   <br/>
-  Building production web apps for <b>Wayfair</b> and a global financial trading platform at <b>State Street</b>.
+  Currently leading the migration of a <b>State Street</b> Navigation Service from legacy <b>C#</b> to a <b>Spring Boot REST API on Azure CosmosDB</b>.
 </p>
 
 <p align="center">
@@ -15,18 +15,19 @@
 
 ### About
 
+- 🚀 Currently **owning the migration of a State Street Navigation Service from C# to Spring Boot** — designing REST contracts, DTO / mapping layer, Azure CosmosDB partition-key & container model, and integration tests around the cutover. Running C# and Spring Boot endpoints side-by-side behind a switch for safe rollback.
 - 🏗️ 3+ years shipping React / Next.js in production, plus real backend work: SQL indexing, Java (Spring) service changes, Terraform-provisioned Postgres replicas.
 - 📦 Author of an internal versioned formatting library (npm-published) used across multiple trading UI teams at State Street.
 - 🧩 Built a permission-based POS settings module and receiptless-return workflow deployed across Wayfair stores.
-- 🎯 Deepening **Spring Boot + PostgreSQL + system design** to lead backend features end-to-end.
 - ✍️ Occasional writer on web performance and frontend architecture — [Medium](https://medium.com/@c.bhupendra12).
 
 ### Tech I work with
 
+**Backend** &nbsp; Java · Spring Boot · REST APIs · Node.js · GraphQL · WebSockets · service migration (C# → Spring Boot) <br/>
+**Databases** &nbsp; Azure CosmosDB · PostgreSQL · SQL indexing · Prisma <br/>
 **Frontend** &nbsp; React · Next.js · TypeScript · Redux · Vue.js · Microfrontends · Tailwind <br/>
-**Backend** &nbsp;&nbsp;&nbsp; Node.js · Java (Spring) · REST · GraphQL · WebSockets <br/>
-**Data & Infra** &nbsp; PostgreSQL · Prisma · SQL indexing · Terraform · AWS <br/>
-**Testing** &nbsp;&nbsp;&nbsp;&nbsp; Jest · React Testing Library · Cypress
+**Infra & Cloud** &nbsp; Terraform · AWS · Azure · CI/CD <br/>
+**Testing** &nbsp; Jest · React Testing Library · Cypress
 
 ### Featured projects
 
@@ -36,5 +37,5 @@
 
 ### Currently
 
-🌱 Building a Spring Boot + PostgreSQL side project (job-listings aggregator) to sharpen backend fundamentals. <br/>
+🌱 Deepening Spring Boot + JPA + Spring Security, Azure CosmosDB modeling, and system-design fundamentals.
 👀 Open to **Fullstack / Backend** roles — Bangalore, Hyderabad or remote.
